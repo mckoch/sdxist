@@ -8,8 +8,7 @@ sdxist.exe - Datei Browser und Decoder für den Standard Datensatz Außenwerbung
 
 sdxist.exe eignet sich sowohl als intelligenter Dateibrowser für alle SDAW-Formate als auch als Preprozessor zur weiteren Verarbeitung von SDAW-codierten Daten, z.B. in einer Officeumgebung oder zum Datenexport für Webserver.
 
-Endanwender und Entwickler erhalten mit sdxist.exe ein Werkzeug, das unzählige Stunden Arbeit und Programmierung erspart.
-Features
+
 
     erkennt und interpretiert Kopfdaten von SDAW Dateien
     decodiert STA, FRE, LWT, VMS ... in lesbare Datensätze
