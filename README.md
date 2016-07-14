@@ -66,26 +66,3 @@ Installationsvorraussetzungen
 sdx.exe benötigt unter Windows das .net framework 4.5. 
 Das Installationsprogramm lädt ggfls. fehlende Komponenten 
 während der Installation herunter.
-
-Datenschutz
-
-Dieses Programm übermittelt zur Laufzeit keine Daten an Dritte und überprüft auch nicht, ob Updates vorliegen. Ausnahme: Angezeigte Karten werden bei Google Maps einzeln angefordert (dies können Sie jederzeit abschalten).
- 
-Lizenzen
-sdxist.exe free edition
-sdxist.exe in der kostenlosen Version
-
-Diese Version ist "dual licensed": zum einen unter einer Creative Commons Lizenz. Diese gestattet die freie und zeitlich/räumlich uneingeschränkte Verwendung des Programms zu privaten wie kommerziellen Zwecken. Gleichzeitig dürfen Sie gern Kopien weitergeben, so lange die Originalinstallationsdatei unverändert bleibt sowie ein entsprechender Verweis auf den Autor und dessen Website erfolgen.
-
-Die 3-clause-license besagt, dass Sie das Programm auf eigene Verantwortung benutzen, und der Autor von jeglicher Gewährleistung befreit ist. Das Programm darf nur zu den gleichen Lizenzbedingungen weitergegeben werden, wie es erhalten wurde.
-sdxist.exe - produktive Version
-
-Details zum Erwerb erhalten Sie beim Raderthal Verlag - RMM Radertahl Medien Manufaktur, Köln. Der Preis für eine Einzellizenz ohne Einschränkungen liegt bei €XXXX.- zzgl. gesetzlicher Mehrwertsteuer. Die Lieferung erfolgt nach Zahlungseingang auf CDROM/DVD/USB-Datenträger.
- 
-Download Free
-Download hier.
-Versionsverlauf
-
-    Version 1.0 BETA 1 FREE: 22. April 2013
-
- 
