@@ -67,3 +67,6 @@ Das Installationsprogramm lädt ggfls. fehlende Komponenten
 während der Installation herunter.
 
 https://www.evernote.com/shard/s122/nl/13013414/396deb57-d12b-4a00-884a-aeb8db2579dd 
+
+### !
+Sämtliche Datenformate werden per XML konfiguriert und sind somit serverseitig übergreifend verfügbar, unabhängig vom verwendeten Importformat. Insofern sind die Komponenten unspezifisch gegenüber dem vorkonfigurierten Format und können per XML auch für andere zeilenbasierte Festformate angepasst werden. 
