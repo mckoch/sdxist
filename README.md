@@ -58,10 +58,12 @@ sdxist.exe ermöglicht die Zusammenstellung und Export eigener Datenauszüge.
 
 Entstehung
 
-sdxist.exe wurde von Autor im Rahmen eines Drittprojektes zunächst für den eigenen (Entwickler-)Gebrauch geschrieben. Die zu Grunde liegende sdx-Engine beinhaltet über Jahre gepflegte Routinen zur Codierung/Decodierung von zeilenbasierten Festformaten und ermöglicht den Umgang auch mit hohen Datenmengen.
+sdxist.exe wurde von Autor im Rahmen eines Drittprojektes zunächst für den eigenen (Entwickler-)Gebrauch geschrieben. Die zu Grunde liegende sdx-Engine beinhaltet über Routinen zur Codierung/Decodierung von zeilenbasierten Festformaten und ermöglicht den Umgang auch mit hohen Datenmengen.
  
 Installationsvorraussetzungen
 
 sdx.exe benötigt unter Windows das .net framework 4.5. 
 Das Installationsprogramm lädt ggfls. fehlende Komponenten 
 während der Installation herunter.
+
+https://www.evernote.com/shard/s122/nl/13013414/396deb57-d12b-4a00-884a-aeb8db2579dd 
